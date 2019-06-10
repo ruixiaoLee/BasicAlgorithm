@@ -1,5 +1,6 @@
 //Floyd法 邻接矩阵
 //用来计算【所有点对】的最短距离
+//O（n^3）
 #include<iostream>
 using namespace std;
 
